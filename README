@@ -1,1 +1,6 @@
+cosine_similarity.ipynb -- Analysis of cosine_similarity between txt and prompt, also correlation with labels
+bowxgbsmote.ipynb -- XGBoost model and hyperparameters tuning
 
+logistic_testing.ipynb -- Logistic model and hyperparameters tuning 
+transform.ipynb -- Transfer Learning with Bert 
+Model_ensembling.ipynb -- Ensemble Final Approach 
